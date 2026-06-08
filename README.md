@@ -1,41 +1,26 @@
 # Hi, I'm Fateme 👋
 
-Computer Science student interested in Python, Machine Learning, and Artificial Intelligence.
+Computer Science student learning Python, Machine Learning, and AI.
 
 ## About Me
-
-* 🎓 Computer Science Student
-* 🐍 Currently learning Python
-* 🐧 Exploring Linux and open-source tools
-* 🤖 Interested in Machine Learning and AI
-* 📚 Building projects while learning
+- 🎓 Computer Science student
+- 🐍 Learning Python
+- 🐧 Using Linux and GitHub
+- 🤖 Interested in Machine Learning and AI
+- 📚 Building projects while learning
 
 ## Current Focus
+- Python
+- Git & GitHub
+- Linux
+- Machine Learning fundamentals
 
-* Python Programming
-* Data Structures & Algorithms
-* Git & GitHub
-* Linux
-* Machine Learning Fundamentals
+## Projects
+- **Self-RAG Evidence Assistant** — RAG assistant for evidence-based answers from documents.
+- **Customer Support Tone Checker** — Persian NLP project for classifying support message tones.
 
 ## Tech Stack
-
-* Python
-* Git
-* GitHub
-* Linux (Ubuntu)
-* Streamlit
-* Scikit-learn
-* Pandas
-* NumPy
-
-## 2026 Goals
-
-* Strengthen Python skills
-* Build practical machine learning projects
-* Contribute to open-source projects
-* Create a professional portfolio
-* Prepare for ML Engineer opportunities
+Python · Git · GitHub · Linux · Streamlit · Scikit-learn · Pandas
 
 ---
 
