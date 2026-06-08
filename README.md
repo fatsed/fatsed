@@ -1,26 +1,20 @@
 # Hi, I'm Fateme 👋
 
-Computer Science student learning Python, Machine Learning, and AI.
+Computer Science student learning Python and exploring Machine Learning.
 
 ## About Me
 - 🎓 Computer Science student
-- 🐍 Learning Python
-- 🐧 Using Linux and GitHub
+- 🐍 Building a strong Python foundation
+- 🐧 Using Linux and GitHub for daily learning
 - 🤖 Interested in Machine Learning and AI
-- 📚 Building projects while learning
-
-## Current Focus
-- Python
-- Git & GitHub
-- Linux
-- Machine Learning fundamentals
+- 📚 Building small projects while learning
 
 ## Projects
 - **Self-RAG Evidence Assistant** — RAG assistant for evidence-based answers from documents.
 - **Customer Support Tone Checker** — Persian NLP project for classifying support message tones.
 
 ## Tech Stack
-Python · Git · GitHub · Linux · Streamlit · Scikit-learn · Pandas
+Python · Git · GitHub · Linux · Streamlit · Pandas · NumPy · Scikit-learn
 
 ---
 
