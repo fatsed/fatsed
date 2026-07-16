@@ -24,6 +24,7 @@ Python OOP · NumPy · Pandas · Scikit-learn · Machine Learning
 ## Exploring
 
 NLP · RAG · Streamlit · FastAPI
+
 ---
 
 Always learning and improving 🚀
