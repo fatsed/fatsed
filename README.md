@@ -13,9 +13,17 @@ Computer Science student learning Python and exploring Machine Learning.
 - **Self-RAG Evidence Assistant** — RAG assistant for evidence-based answers from documents.
 - **Customer Support Tone Checker** — Persian NLP project for classifying support message tones.
 
-## Tech Stack
-Python · Git · GitHub · Linux · Streamlit · Pandas · NumPy · Scikit-learn
+## Current Tools
 
+Git · GitHub · Linux · Basic Python
+
+## Currently Learning
+
+Python OOP · NumPy · Pandas · Scikit-learn · Machine Learning
+
+## Exploring
+
+NLP · RAG · Streamlit · FastAPI
 ---
 
 Always learning and improving 🚀
