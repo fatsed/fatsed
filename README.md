@@ -1,10 +1,7 @@
 <div align="center">
-
 # Hi, I'm Fateme ♡
-
 Computer Science student building my path in  
 **Python, Machine Learning, and NLP**
-
 <p>
   <img src="https://img.shields.io/badge/Python-6C63FF?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-E78FB3?style=flat-square" />
