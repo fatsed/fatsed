@@ -2,7 +2,7 @@
 
 ## Hi, I'm Fateme
 
-Computer Science student currently learning Python and improving my development workflow.
+Computer Science student learning Python and building stronger programming foundations.
 
 <p>
   <img src="https://img.shields.io/badge/Python-Learning-8B5CF6?style=flat-square&logo=python&logoColor=white" />
@@ -14,11 +14,12 @@ Computer Science student currently learning Python and improving my development 
 
 </div>
 
-### Right now
+### Current focus
 
 <p>
+  <img src="https://img.shields.io/badge/Python_Practice-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/Problem_Solving-C084FC?style=flat-square" />
   <img src="https://img.shields.io/badge/Git_%26_GitHub-E78FB3?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-Practicing problem solving and getting more comfortable with Git and GitHub.
+Improving my coding skills through practice and small project updates.
