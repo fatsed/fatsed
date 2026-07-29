@@ -34,7 +34,6 @@ A university project for classifying the tone of Persian support messages.
 <img src="https://img.shields.io/badge/Python_Fundamentals-8B5CF6?style=flat-square" />
 <img src="https://img.shields.io/badge/Problem_Solving-C084FC?style=flat-square" />
 <img src="https://img.shields.io/badge/Git_Workflow-DB7093?style=flat-square" />
-<img src="https://img.shields.io/badge/English-Practice-D977AE?style=flat-square" />
 
 ---
 
